@@ -25,6 +25,19 @@ Stop.PointOfRoute: 紀錄站到線型的索引、座標
 
 Stop.nextStopDis: 紀錄站到下一站的距離(公尺)，使用線型計算，非直線距離
 
+## 設定setting.json
+```json
+{
+    "email": "信箱",
+    "emailPassword": "信箱密碼",
+    "emailSmtp": "smtp.gmail.com",
+    "emailSmtpPort": "587",
+    "ptxAppId": "TDX App Id",
+    "ptxAppKey": "TDX App Key"
+}
+```
+
+
 ## 執行
 
 ```
