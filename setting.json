@@ -1,0 +1,8 @@
+{
+    "email": "??????@gmail.com",
+    "emailPassword": "password",
+    "emailSmtp": "smtp.gmail.com",
+    "emailSmtpPort": "587",
+    "ptxAppId": "ptxAppId",
+    "ptxAppKey": "ptxAppKey"
+}

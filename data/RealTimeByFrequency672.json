@@ -1,0 +1,379 @@
+[
+    {
+        "PlateNumb": "280-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.516515,
+            "PositionLat": 24.992342,
+            "GeoHash": "wsqqjjtwu"
+        },
+        "Speed": 41.0,
+        "Azimuth": 289.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:29+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "282-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.557738,
+            "PositionLat": 25.04734,
+            "GeoHash": "wsqqqpexk"
+        },
+        "Speed": 2.0,
+        "Azimuth": 0.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:33+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "283-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.52191,
+            "PositionLat": 25.000302,
+            "GeoHash": "wsqqjr1t3"
+        },
+        "Speed": 27.0,
+        "Azimuth": 26.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:33+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "287-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.529595,
+            "PositionLat": 25.019515,
+            "GeoHash": "wsqqm6xjh"
+        },
+        "Speed": 0.0,
+        "Azimuth": 0.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:23+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "729-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.534043,
+            "PositionLat": 24.990902,
+            "GeoHash": "wsqqjt6qs"
+        },
+        "Speed": 0.0,
+        "Azimuth": 0.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:22+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "735-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.5552,
+            "PositionLat": 25.026827,
+            "GeoHash": "wsqqq5czc"
+        },
+        "Speed": 36.0,
+        "Azimuth": 227.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:35+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "802-U3",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.556933,
+            "PositionLat": 25.052777,
+            "GeoHash": "wsqqw0ep1"
+        },
+        "Speed": 0.0,
+        "Azimuth": 0.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:23+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "FAA-159",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.532952,
+            "PositionLat": 25.049898,
+            "GeoHash": "wsqqt81w5"
+        },
+        "Speed": 31.0,
+        "Azimuth": 355.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:37+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "FAA-160",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.556757,
+            "PositionLat": 25.058317,
+            "GeoHash": "wsqqw1dzm"
+        },
+        "Speed": 0.0,
+        "Azimuth": 0.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:32+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "FAA-161",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.534138,
+            "PositionLat": 24.993332,
+            "GeoHash": "wsqqjtfkw"
+        },
+        "Speed": 2.0,
+        "Azimuth": 343.0,
+        "DutyStatus": 2,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:27+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "FAA-162",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 0,
+        "BusPosition": {
+            "PositionLon": 121.549172,
+            "PositionLat": 25.053985,
+            "GeoHash": "wsqqtbvqh"
+        },
+        "Speed": 41.0,
+        "Azimuth": 358.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:27+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "KKA-0357",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.549452,
+            "PositionLat": 25.02182,
+            "GeoHash": "wsqqmgjde"
+        },
+        "Speed": 3.0,
+        "Azimuth": 229.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:28+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    },
+    {
+        "PlateNumb": "KKA-0359",
+        "OperatorID": "700",
+        "RouteUID": "TPE10785",
+        "RouteID": "10785",
+        "RouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "SubRouteUID": "TPE107850",
+        "SubRouteID": "107850",
+        "SubRouteName": {
+            "Zh_tw": "672",
+            "En": "672"
+        },
+        "Direction": 1,
+        "BusPosition": {
+            "PositionLon": 121.515087,
+            "PositionLat": 24.996867,
+            "GeoHash": "wsqqjns96"
+        },
+        "Speed": 7.0,
+        "Azimuth": 217.0,
+        "DutyStatus": 1,
+        "BusStatus": 0,
+        "GPSTime": "2022-12-12T09:25:34+08:00",
+        "SrcUpdateTime": "2022-12-12T09:25:40+08:00",
+        "UpdateTime": "2022-12-12T09:25:45+08:00"
+    }
+]

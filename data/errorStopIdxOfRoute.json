@@ -1,0 +1,2794 @@
+[
+    {
+        "RouteUID": "TPE10132",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10132",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10142",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10142",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10181",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10181",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10221",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10231",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10232",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10253",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10261",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10261",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10262",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10262",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10263",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10277",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10278",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10278",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10278",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10278",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10282",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10282",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10283",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10292",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10326",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10326",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10328",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10331",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10332",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10332",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10333",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10334",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10417",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10417",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10419",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10419",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10421",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10421",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10423",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10431",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10431",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10432",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10432",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10443",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10443",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10443",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10443",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10452",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10452",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10461",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10461",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10461",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10461",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10462",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10462",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10471",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10471",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10472",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10472",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10473",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10473",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10473",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10473",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10481",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10481",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10482",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10482",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10711",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10711",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10712",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10712",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10721",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10721",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10721",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10721",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10722",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10722",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10723",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10723",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10724",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10725",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10733",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10733",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10734",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10734",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10735",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10735",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10736",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10736",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10741",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10742",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10742",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10742",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10742",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10745",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10745",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10745",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10745",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10746",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10746",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10747",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10748",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10748",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10749",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10749",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10751",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10751",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10752",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10764",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10765",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10771",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10771",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10782",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10782",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10783",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10791",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10791",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10791",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10791",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10811",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10811",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10811",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10811",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10821",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10821",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10821",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10821",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10821",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10822",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10822",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10823",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10823",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10824",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10831",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10832",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10841",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10844",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10844",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10845",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10845",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10845",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10845",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10846",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10846",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10847",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10848",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10848",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10856",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10861",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10863",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10864",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10864",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10872",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10872",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10873",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10873",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10874",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10874",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10883",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10891",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10891",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10893",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10911",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10911",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10912",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10932",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10941",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10941",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10942",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10942",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10942",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE10942",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10961",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10962",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10962",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE10971",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11011",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11011",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11011",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11011",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11021",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11021",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11021",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11021",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11022",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11022",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11023",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11041",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11041",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11051",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11052",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11052",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11052",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11055",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11057",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11058",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11058",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11059",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11059",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11062",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11062",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11062",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11062",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11064",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11064",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11064",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11064",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11066",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11066",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11071",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11071",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11073",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11091",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11093",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11093",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11114",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11121",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11121",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11122",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11122",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11124",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11125",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11134",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11135",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11135",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11135",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11135",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11136",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11136",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11136",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11136",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11137",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11137",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11138",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11138",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11138",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11138",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11139",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11139",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11139",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11139",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11141",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11141",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11142",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11142",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11143",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11143",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11143",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11143",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11145",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11146",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11152",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11152",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11152",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11152",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11157",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11158",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11161",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11165",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11171",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11171",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11171",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11171",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11201",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11203",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11203",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11204",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11206",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11206",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11206",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11206",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11207",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11207",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11207",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11207",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11207",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11208",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11209",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11209",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11209",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11209",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11211",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11211",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11212",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11212",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11217",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11221",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11221",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11221",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11221",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11232",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11241",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11242",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11245",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11245",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11246",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11251",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11251",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11252",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11253",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11253",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11411",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11411",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11411",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11411",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11421",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11421",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11742",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11763",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11764",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11764",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11811",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11811",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11812",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11813",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11813",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11815",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11821",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11831",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11834",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11841",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11841",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11841",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11841",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11851",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11851",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11854",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11854",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11854",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11854",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11854",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11861",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE11861",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11871",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11871",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11871",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE11881",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15111",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15111",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15112",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15113",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15141",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15142",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15142",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15143",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15151",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15161",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15162",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15162",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15164",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15172",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15184",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15184",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15191",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15221",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15313",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15313",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15314",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15322",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15322",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15332",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15332",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15332",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15332",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15333",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15333",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15334",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15334",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15334",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15334",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15335",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15335",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15352",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15353",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15355",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15355",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15356",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15356",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15361",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15361",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15361",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15361",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15361",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15362",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15372",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15373",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15373",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15381",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15391",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15391",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15391",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15512",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15512",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15513",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15513",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15515",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15521",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15522",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15531",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15531",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15532",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15532",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15546",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15551",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15551",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15553",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15554",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15563",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15563",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15571",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15571",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15572",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15581",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15657",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15676",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15676",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15678",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15678",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15679",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15681",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15683",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15683",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15685",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15685",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15686",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15686",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15687",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15688",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15689",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15689",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15690",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15690",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15691",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15694",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15695",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15708",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15708",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15711",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15711",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15711",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15724",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15724",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15724",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15724",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15726",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15726",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15731",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15734",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15735",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE15735",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15735",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE15735",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16111",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16111",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16112",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16112",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16112",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16112",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16122",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16122",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16122",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16122",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16125",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16125",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16125",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16125",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16128",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16128",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16131",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16131",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16132",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16132",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16140",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16153",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16153",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16158",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16163",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16164",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16164",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16166",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16166",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16166",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16166",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16168",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16168",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16172",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16174",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16174",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16184",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16184",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16440",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16440",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16504",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16504",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16506",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16506",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16508",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16559",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16559",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16559",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16559",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16568",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16568",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16648",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16648",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16706",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16706",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16706",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16707",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16707",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16707",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16707",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16746",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16746",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16746",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16746",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16746",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16747",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16749",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE16750",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE16750",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17018",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17020",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17022",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17333",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17363",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17390",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17390",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17436",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17555",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17560",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17561",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17709",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17709",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17740",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17740",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17740",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17800",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17801",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17801",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17805",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17805",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17869",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17869",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17908",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17928",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17928",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17929",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17944",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE17952",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE17967",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18015",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18015",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18040",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18040",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18040",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18040",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18044",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18044",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18057",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18198",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18228",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18428",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18498",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18658",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18658",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE18668",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18708",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE18868",
+        "dir": 1
+    },
+    {
+        "RouteUID": "TPE19028",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE19108",
+        "dir": 0
+    },
+    {
+        "RouteUID": "TPE810",
+        "dir": 0
+    }
+]
